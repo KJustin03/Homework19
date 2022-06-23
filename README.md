@@ -2,7 +2,9 @@
 
 ## Description
 
-## Acceptance Criterie
+This is a single-page text editor that runs in a browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application is deployed on Heroku and also functions offline. It has the following interface:
+
+## Acceptance Criteria
 ```
 GIVEN a text editor web application
 WHEN I open my application in my editor
